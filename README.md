@@ -1,5 +1,4 @@
-# Data Snippets
---------------------------------------------------------------  
+# Data Snippets  
 Snippets of code mainly from Data Analysis projects.  
 ## 1. The Scone Debate:  
    Whilst studying, the Tutor asked the group "Which goes on first, the cream or the jam - or does it matter?"  
